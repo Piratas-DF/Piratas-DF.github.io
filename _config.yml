@@ -10,18 +10,18 @@ language: 'pt-br'
 name: 'Partido Pirata do DF'
 description: "\"O céu é o mar de Brasília\" - Lúcio Costa"
 
-# Author's info
-author: 'Casper McFadden'
-# edit 'categories' in the front matter of every post to match this username
-nickname: casper
-bio: 'A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and one friendly one.'
-location: 'Maine, USA'
-url: 'http://biomadeira.github.io/jasper/'
-image: 'assets/images/piratey.svg'
+# # Author's info
+#  'Casper McFadden'
+# # edit 'categories' in the front matter of every post to match this username
+# nickname: casper
+# bio: 'A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and one friendly one.'
+# location: 'Maine, USA'
+# url: 'http://biomadeira.github.io/jasper/'
+# image: 'assets/images/piratey.svg'
 
-short_url: 'biomadeira.github.io/jasper/'
-google_analytics: UA-69281367-1
-disqus: username
+# short_url: 'biomadeira.github.io/jasper/'
+# google_analytics: UA-69281367-1
+# disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: /
 

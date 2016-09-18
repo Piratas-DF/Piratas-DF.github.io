@@ -1,3 +1,5 @@
-- consertar funcionalidade multi autor
+- consertar post (cabeçalho, margens, etc)
+√ consertar funcionalidade multi autor
 - Sobre
 - organizar tags
+- criar um CMS com wysiwyg para autores (ideia netfly)

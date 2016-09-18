@@ -1,0 +1,22 @@
+piratas:
+  nickname: 'Pirata'
+  name: "Partido Pirata"
+  bio: 'PIRATAS 42'
+  location: 'Brasil'
+  image: '../assets/images/autores/piratey.svg'
+  url: 'http://www.piratas.online/'
+  short_url: 'piratas.online'
+fredguth:
+  nickname: 'fredguth'
+  name: "Fred Guth"
+  bio: ''
+  location: 'Brasília'
+  image: '../assets/images/autores/fredguth.png'
+  url: 'http://www.unsexy.com.br'
+  short_url: 'unsexy.com.br'
+prenass:
+  nickname: 'prenass'
+  name: "Paulo Rená"
+  bio: ''
+  location: 'Brasília'
+  image: '../assets/images/autores/prenass.jpeg'
