@@ -9,6 +9,7 @@ language: 'pt-br'
 # Website info
 name: 'Partido Pirata do DF'
 description: "\"O céu é o mar de Brasília\" - Lúcio Costa"
+logo: '/assets/images/piratas-cinza.png'
 
 # # Author's info
 #  'Casper McFadden'
