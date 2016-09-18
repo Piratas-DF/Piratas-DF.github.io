@@ -7,8 +7,8 @@ paginate: 5
 language: 'pt-br'
 
 # Website info
-name: 'Finding The Way Home'
-description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
+name: 'Partido Pirata do DF'
+description: "\"O céu é o mar de Brasília\" - Lúcio Costa"
 
 # Author's info
 author: 'Casper McFadden'
@@ -17,7 +17,7 @@ nickname: casper
 bio: 'A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and one friendly one.'
 location: 'Maine, USA'
 url: 'http://biomadeira.github.io/jasper/'
-image: 'assets/images/casper.png'
+image: 'assets/images/piratey.svg'
 
 short_url: 'biomadeira.github.io/jasper/'
 google_analytics: UA-69281367-1
@@ -27,8 +27,8 @@ baseurl: /
 
 # Permalinks
 permalink: /:title
-permalink: /autor/:username
-permalink: /tag/:tag
+# permalink: /author/:username
+# permalink: /tag/:tag
 
 
 # gems and other configs
@@ -54,15 +54,15 @@ exclude: [vendor]
 # repo defaults to USERNAME.github.io
 # Branch defaults to "source" for USERNAME.github.io
 # or "master" otherwise
-safe: false
-lsi: false
-username: biomadeira
-repo: jasper
-branch: master
-relative_source: ../jasper/
-destination: ../jasper-pages/
-production_url:  https://biomadeira.github.io/jasper/
-source_url:      https://github.com/biomadeira/jasper/
+# safe: false
+# lsi: false
+# username: biomadeira
+# repo: jasper
+# branch: master
+# relative_source: ../jasper/
+# destination: ../jasper-pages/
+# production_url:  https://biomadeira.github.io/jasper/
+# source_url:      https://github.com/biomadeira/jasper/
 
 exclude:
   - README.md
