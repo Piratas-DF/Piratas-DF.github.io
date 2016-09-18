@@ -1,4 +1,4 @@
-- consertar post (cabeçalho, margens, etc)
+√ consertar post (cabeçalho, margens, etc)
 √ consertar funcionalidade multi autor
 - Sobre
 - organizar tags
